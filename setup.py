@@ -2,7 +2,7 @@ from setuptools import setup
 from setuptools_rust import Binding, RustExtension
 
 setup(
-    name="tiktoken",
+    name="Venture_token",
     rust_extensions=[
         RustExtension(
             "tiktoken._tiktoken",
